@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<studentList>
+  <student id="1" name="Керимов Самат" age="18" group="ЭN - 55" average_score="10,5" />
+  <student id="2" name="Жакупов Марат" age="19" group="CT - 119" average_score="9" />
+</studentList>

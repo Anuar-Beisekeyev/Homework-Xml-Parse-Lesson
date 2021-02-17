@@ -1,0 +1,13 @@
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\bin\Debug\netcoreapp3.1\HomeworkXmlParseLesson.exe
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\bin\Debug\netcoreapp3.1\HomeworkXmlParseLesson.deps.json
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\bin\Debug\netcoreapp3.1\HomeworkXmlParseLesson.runtimeconfig.json
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\bin\Debug\netcoreapp3.1\HomeworkXmlParseLesson.runtimeconfig.dev.json
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\bin\Debug\netcoreapp3.1\HomeworkXmlParseLesson.dll
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\bin\Debug\netcoreapp3.1\HomeworkXmlParseLesson.pdb
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\obj\Debug\netcoreapp3.1\HomeworkXmlParseLesson.csprojAssemblyReference.cache
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\obj\Debug\netcoreapp3.1\HomeworkXmlParseLesson.AssemblyInfoInputs.cache
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\obj\Debug\netcoreapp3.1\HomeworkXmlParseLesson.AssemblyInfo.cs
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\obj\Debug\netcoreapp3.1\HomeworkXmlParseLesson.csproj.CoreCompileInputs.cache
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\obj\Debug\netcoreapp3.1\HomeworkXmlParseLesson.dll
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\obj\Debug\netcoreapp3.1\HomeworkXmlParseLesson.pdb
+G:\Проекты\HomeworkXmlParseLesson\HomeworkXmlParseLesson\obj\Debug\netcoreapp3.1\HomeworkXmlParseLesson.genruntimeconfig.cache
